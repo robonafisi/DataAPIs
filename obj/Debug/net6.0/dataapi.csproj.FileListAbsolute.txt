@@ -1,0 +1,15 @@
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/bin/Debug/net6.0/dataapi
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/bin/Debug/net6.0/dataapi.deps.json
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/bin/Debug/net6.0/dataapi.runtimeconfig.json
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/bin/Debug/net6.0/dataapi.dll
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/bin/Debug/net6.0/dataapi.pdb
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.csproj.AssemblyReference.cache
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.AssemblyInfoInputs.cache
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.AssemblyInfo.cs
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.csproj.CoreCompileInputs.cache
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.dll
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/refint/dataapi.dll
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.pdb
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/dataapi.genruntimeconfig.cache
+/Users/mohammadnafisi/Desktop/APIBuilding/dataapi/obj/Debug/net6.0/ref/dataapi.dll
