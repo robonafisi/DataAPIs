@@ -1,6 +1,6 @@
 namespace dataapi.Contracts.Createblock;
 
-public record CreateblockRequest(
+public record CreateblockResponse(
     string Name,
     string Description,
     DateTime StartDateTime,
