@@ -1,6 +1,6 @@
-namespace dataapi.Contracts.Createblock;
+namespace dataapi.Contracts.Updateblock;
 
-public record CreateblockRequest(
+public record Updateblock(
     Guid Id,
     string Name,
     string Description,
